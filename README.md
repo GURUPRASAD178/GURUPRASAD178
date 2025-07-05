@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Guruprasad H D – Super Repository</h1>
+<h1 align="center">🚀 Hi, I am Guruprasad H D </h1>
 
 <p align="center">
   <b>👨‍💻 Developer | 🧠 AI Enthusiast | 🌐 Full-Stack Engineer | ⚙️ Problem Solver</b>
