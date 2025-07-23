@@ -61,7 +61,7 @@
 - 🔍 Exploring **AI-based complaint categorization systems**
 - ⚡ Integrating **IoT + ML** for smarter living
 - 🌐 Enhancing **full-stack performance** using Spring Boot and React
-- 📚 Prepping for **PGCET 2025**
+
 
 ---
 
