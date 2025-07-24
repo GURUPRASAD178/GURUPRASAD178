@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>👨‍💻 Developer | 🧠 AI Enthusiast | 🌐 Full-Stack Engineer | ⚙️ Problem Solver | 🛡️ Cybersecurity Enthusiast</b>
-  <br>
+  <br><br>
   <img src="https://komarev.com/ghpvc/?username=guruprasad178&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <br>
 </p>
