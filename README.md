@@ -16,10 +16,10 @@
 🖥️ **Computer Science Engineering** @ Government Engineering College, Hassan (Karnataka)  
 🌍 Based in India | 🇮🇳  
 🎯 Aiming to solve real-world problems using **AI**, **Automation**, and **Clean Code**
-🛠️ Currently working as a **Technical Trainee Engineer** at [Parvam Software Solutions](https://www.parvamm.com/)
-🌱 Learning: **C++**, **Cybersecurity**, and **Cloud Platforms (AWS / GCP)**
-📚 Passionate about building solutions with **Flutter**, **Django**, **System Design**, and **Cloud Infrastructure**
-💬 Ask me about: `Programming`, `Cyber Threat Analysis`, `Cloud Deployment`, `RestAPI`, `React`
+- 🛠️ Currently working as a **Technical Trainee Engineer** at [Parvam Software Solutions](https://www.parvamm.com/)
+- 🌱 Learning: **C++**, **Cybersecurity**, and **Cloud Platforms (AWS / GCP)**
+- 📚 Passionate about building solutions with **Flutter**, **Django**, **System Design**, and **Cloud Infrastructure**
+- 💬 Ask me about: `Programming`, `Cyber Threat Analysis`, `Cloud Deployment`, `FastAPI`, `Flutter`
 ---
 
 ## 🧩 Featured Projects
@@ -79,6 +79,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 
+---
 
 ## 📊 GitHub Stats
 
