@@ -1,7 +1,9 @@
 <h1 align="center">🚀 Hi, I am Guruprasad H D </h1>
 
 <p align="center">
-  <b>👨‍💻 Developer | 🧠 AI Enthusiast | 🌐 Full-Stack Engineer | ⚙️ Problem Solver</b>
+  <b>👨‍💻 Developer | 🧠 AI Enthusiast | 🌐 Full-Stack Engineer | ⚙️ Problem Solver | 🛡️ Cybersecurity Enthusiast</b>
+  <img src="https://komarev.com/ghpvc/?username=guruprasad-hd178&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <br>
 </p>
 
 <p align="center">
