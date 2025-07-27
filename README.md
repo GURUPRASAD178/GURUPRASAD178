@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F2FF&vCenter=true&multiline=true&width=500&height=80&lines=Welcome+to+my+Super+Repo!;Building+Smart%2C+Impactful+Tech+🛠️;AI+%2B+Automation+%2B+Web+%3D+🔥" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F2FF&vCenter=true&multiline=true&width=500&height=80&lines=Welcome+to+my+Github+Profile!;Building+Smart%2C+Impactful+Tech+🛠️;AI+%2B+Automation+%2B+Web+%3D+🔥" alt="Typing SVG" />
 </p>
 
 ---
