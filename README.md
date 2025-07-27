@@ -18,9 +18,9 @@
 🎓 **Guruprasad H D**  
 🖥️ **Computer Science Engineering** @ Government Engineering College, Hassan (Karnataka)  
 🌍 Based in India | 🇮🇳  
-🎯 Aiming to solve real-world problems using **AI**, **Automation**, and **Clean Code**
+🎯 Aiming to solve real-world problems using **AI**, **Automation**, **Smart Tech** and **Clean Code**
 - 🛠️ Currently working as a **Technical Trainee Engineer** at [Parvam Software Solutions](https://www.parvamm.com/)
-- 🌱 Learning: **C++**, **Cybersecurity**, and **Cloud Platforms (AWS / GCP)**
+- 🌱 Learning: **C++**, **Data Structures and Algorithms**, **Cybersecurity**, and **Cloud Platforms (AWS / GCP)**
 - 📚 Passionate about building solutions with **Flutter**, **Django**, **System Design**, and **Cloud Infrastructure**
 - 💬 Ask me about: `Programming`, `Cyber Threat Analysis`, `Cloud Deployment`, `FastAPI`, `Flutter`
 ---
