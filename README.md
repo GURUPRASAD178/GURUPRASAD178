@@ -29,11 +29,11 @@
 
 | 🔗 Project | 💡 Description | ⚙️ Tech Stack |
 |------------|----------------|---------------|
-| [🎁 TipEase](https://github.com/yourusername/TipEase) | Cashless tipping app to appreciate waiters | `Django`, `Bootstrap`, `Razorpay` |
-| [🚄 Rail Madad AI](https://github.com/yourusername/RailMadadAI) | AI-powered rail complaint categorizer | `Bootstrap`, `NLP`, `PyTorch`, `OCR` |
-| [💡 EcoLight](https://github.com/yourusername/EcoLight) | Smart AI lighting for energy efficiency | `IoT`, `AI`, `Python` |
-| [⚖️ LawBridge](https://github.com/yourusername/LawBridge) | Lawyer-client management portal with scheduling | `Spring Boot`, `Thymeleaf`, `MySQL` |
-| [🌿 Herbal Garden](https://github.com/yourusername/VirtualHerbalGarden) | 3D learning app for medicinal plants | `Unity3D`, `HTML`, `JavaScript` |
+| [🎁 TipEase](https://github.com/GURUPRASAD178/Tip_App) | Cashless tipping app to appreciate waiters | `Django`, `Bootstrap`, `Razorpay` |
+| [🚄 Rail Madad AI](https://github.com/GURUPRASAD178/RailMadadAI) | AI-powered rail complaint categorizer | `Bootstrap`, `NLP`, `PyTorch`, `OCR` |
+| [💡 WealthManager](https://github.com/GURUPRASAD178/Wealth_Manager) | A Full stack web app | `React`, `Python` |
+| [⚖️ LawBridge](https://github.com/GURUPRASAD178/Law_Bridge) | Lawyer-client management portal with scheduling | `Spring Boot`, `Thymeleaf`, `MySQL` |
+| [🌿 Portfolios](https://github.com/GURUPRASAD178/) | 3D portfolio app  | `Unity3D`, `HTML`, `JavaScript` |
 
 > 🔍 Check out more in the `/projects` folder or pinned repositories!
 
