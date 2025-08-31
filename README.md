@@ -53,7 +53,7 @@
 ---
 
 ### 🌐 Web & App Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Spring](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=spring&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Django REST](https://img.shields.io/badge/DRF-ff1709?style=flat&logo=django&logoColor=white&labelColor=gray)
