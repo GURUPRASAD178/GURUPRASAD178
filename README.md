@@ -19,7 +19,7 @@
 🖥️ Completed **B.E in CSE** @ Government Engineering College, Hassan (Karnataka)  
 🌍 Based in India | 🇮🇳  
 🎯 Aiming to solve real-world problems using **AI**, **Automation**, **Smart Tech** and **Clean Code**
-- 🛠️ Currently studying **M.Tech in CSE** at **@University Visvesvaraya College of Engineering** at [Parvam Software Solutions](https://www.parvamm.com/)
+- 🛠️ Currently studying **M.Tech in CSE** at **@University Visvesvaraya College of Engineering**
 - 🌱 Learning: **C++**, **Data Structures and Algorithms**, **Cybersecurity**, and **Cloud Platforms (AWS / GCP)**
 - 📚 Passionate about building solutions with **Flutter**, **Django**, **System Design**, and **Cloud Infrastructure**
 - 💬 Ask me about: `Programming`, `Cyber Threat Analysis`, `Cloud Deployment`, `FastAPI`, `Flutter`
