@@ -1,177 +1,156 @@
-# 👋 Hey, I'm Guruprasad H D
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Software+Engineer+in+the+Making;Building+AI-Powered+Applications;Full-Stack+%7C+Backend+%7C+Cloud;Turning+Ideas+into+Working+Software" alt="Typing introduction" />
+<img src="./guruprasad-github-neon-banner.png" alt="Guruprasad H D — futuristic developer banner" width="100%">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=850&lines=Software+Engineer+%7C+AI+Enthusiast;Full-Stack+%7C+Backend+%7C+Cloud;Building+useful+things%2C+one+commit+at+a+time;Turning+ideas+into+impactful+technology" alt="Animated typing intro">
+
+<p>
+  <a href="https://github.com/GURUPRASAD178"><img src="https://komarev.com/ghpvc/?username=GURUPRASAD178&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile views"></a>
+  <a href="https://github.com/GURUPRASAD178?tab=repositories"><img src="https://img.shields.io/badge/Explore-Projects-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Projects"></a>
+  <a href="https://www.linkedin.com/in/guruprasad-h-d-3770b518b"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/GURUPRASAD178">
-    <img src="https://komarev.com/ghpvc/?username=GURUPRASAD178&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" alt="Profile views" />
-  </a>
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-8b5cf6?style=for-the-badge" alt="Open to collaboration" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/GURUPRASAD178?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-My%20Repositories-111827?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
-  </a>
-  <a href="https://www.linkedin.com/in/guruprasad-h-d-3770b518b">
-    <img src="https://img.shields.io/badge/Connect-on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+</div>
 
 ---
 
 ## `whoami` — About Me
 
-I'm a Computer Science postgraduate at **University Visvesvaraya College of Engineering (UVCE)**, passionate about building practical software that combines intelligent systems, robust backends, and intuitive user experiences.
+I'm a Computer Science postgraduate at **University Visvesvaraya College of Engineering (UVCE)** who enjoys turning practical problems into useful software. My interests span AI-enabled applications, backend engineering, full-stack development, cloud-connected systems, and secure software.
 
-I enjoy taking an idea from problem definition to implementation, integrating APIs and databases, experimenting with AI, and making applications work beyond the development environment.
+- 🎓 **Education:** M.Tech in Computer Science and Engineering — UVCE
+- 🧠 **Interests:** Applied AI, NLP, backend systems, full-stack development, cloud and IoT
+- 🛠️ **Building with:** Java, Python, Spring Boot, Django, React, REST APIs and databases
+- 🏆 **Hackathons:** IISF Hackathon Finals 2024; TechForSociety Finals 2025
+- 🤝 **Open to:** Collaboration, open-source projects and software engineering opportunities
 
-- 🎓 **Education:** M.Tech in Computer Science and Engineering, UVCE
-- 💻 **Core interests:** Software Engineering, AI/ML, Backend Development, Full-Stack Applications
-- ☁️ **Exploring:** Cloud Computing, AWS, IoT, System Design and Cybersecurity
-- 🏆 **Hackathons:** IISF Hackathon Finals 2024 and TechForSociety Finals 2025
-- 🔭 **Current direction:** Building intelligent, data-driven applications and reliable software systems
-- 🤝 **Interested in:** Software engineering opportunities, open-source contributions, and collaborative projects
-
-> My philosophy: build things that solve real problems, learn by shipping, and improve with every iteration.
+> *“Stay curious. Build boldly. Engineer for impact.”*
 
 ---
 
 ## 🚀 Featured Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚄 Rail Madad AI</h3>
-      <p>An AI-assisted railway grievance portal designed to streamline complaint submission and categorization.</p>
-      <p><code>Python</code> <code>Django</code> <code>NLP</code> <code>OCR</code></p>
-      <a href="https://github.com/GURUPRASAD178/RailMadadAI">Explore Repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💰 WealthManager</h3>
-      <p>A full-stack portfolio analytics application focused on presenting holdings, asset allocation, and investment performance.</p>
-      <p><code>React</code> <code>Python</code> <code>Chart.js</code> <code>SQLite</code></p>
-      <a href="https://github.com/GURUPRASAD178/Wealth_Manager">Explore Repository →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎁 TipEase</h3>
-      <p>A cashless tipping application designed to make digital appreciation easier for service workers.</p>
-      <p><code>Django</code> <code>Bootstrap</code> <code>Razorpay</code></p>
-      <a href="https://github.com/GURUPRASAD178/Tip_App">Explore Repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚖️ LawBridge</h3>
-      <p>A lawyer-client management portal featuring role-based access, appointment scheduling, and structured workflows.</p>
-      <p><code>Java</code> <code>Spring Boot</code> <code>Thymeleaf</code> <code>MySQL</code></p>
-      <a href="https://github.com/GURUPRASAD178/Law_Bridge">Explore Repository →</a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚄 Rail Madad AI
+AI-assisted railway grievance portal exploring complaint categorization and text/image processing.
+
+`Python` `Django` `NLP` `OCR`
+
+[**View repository →**](https://github.com/GURUPRASAD178/RailMadadAI)
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 WealthManager
+Full-stack portfolio analytics project for viewing holdings, allocation and investment performance.
+
+`React` `Python` `Chart.js` `SQLite`
+
+[**View repository →**](https://github.com/GURUPRASAD178/Wealth_Manager)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎁 TipEase
+Cashless tipping application designed to make digital appreciation easier for service workers.
+
+`Django` `Bootstrap` `Razorpay`
+
+[**View repository →**](https://github.com/GURUPRASAD178/Tip_App)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚖️ LawBridge
+Lawyer-client management portal with role-based workflows and appointment scheduling.
+
+`Java` `Spring Boot` `Thymeleaf` `MySQL`
+
+[**View repository →**](https://github.com/GURUPRASAD178/Law_Bridge)
+
+</td>
+</tr>
 </table>
 
 <p align="center">
-  <a href="https://github.com/GURUPRASAD178?tab=repositories">
-    <img src="https://img.shields.io/badge/Discover-More%20Projects-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="More projects" />
-  </a>
+  <a href="https://github.com/GURUPRASAD178?tab=repositories"><img src="https://img.shields.io/badge/More%20Projects-View%20Repositories-00D9FF?style=for-the-badge&logo=github&logoColor=111827" alt="More projects"></a>
 </p>
 
 ---
 
-## 🧰 Technology Stack
+## ⚡ Tech Stack
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,cpp,sql&theme=dark" alt="Java, Python, JavaScript, C++, SQL" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css,react,spring,django,fastapi,nodejs,express,mysql,sqlite,mongodb,aws,gcp,docker,linux,git,github,postman&perline=11&theme=dark" alt="Technology stack">
 </p>
 
-### Backend & APIs
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,django,fastapi,nodejs,express&theme=dark" alt="Spring Boot, Django, FastAPI, Node.js, Express" />
-</p>
+<details>
+<summary><b>Explore skills by category</b></summary>
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind&theme=dark" alt="React, HTML, CSS, Bootstrap, Tailwind CSS" />
-</p>
+- **Languages:** Java, Python, JavaScript, SQL, C++
+- **Backend & APIs:** Spring Boot, Django, Django REST Framework, FastAPI, Node.js, Express
+- **Frontend:** React, HTML, CSS, Bootstrap
+- **Databases:** MySQL, SQLite, MongoDB
+- **Cloud & tools:** AWS, Google Cloud, Docker, Linux, Git, GitHub, Postman
+- **Data & AI:** NumPy, Pandas, NLP concepts, OCR and ML model integration
 
-### Databases & Data
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres&theme=dark" alt="MySQL, SQLite, MongoDB, PostgreSQL" />
-</p>
-
-### Cloud, DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,git,github,postman&theme=dark" alt="AWS, Google Cloud, Docker, Linux, Git, GitHub, Postman" />
-</p>
-
-### AI & Data Science
-`NumPy` · `Pandas` · `NLP` · `OCR` · `ML Integration` · `Data Visualization`
-
-*Technology icons indicate tools I've worked with or explored, not necessarily expert-level proficiency in every tool.*
+</details>
 
 ---
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GURUPRASAD178&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GURUPRASAD178&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used programming languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="95%" src="https://streak-stats.demolab.com?user=GURUPRASAD178&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=GURUPRASAD178&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats">
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GURUPRASAD178&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used languages">
 
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=GURUPRASAD178&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity" />
-</p>
+<img width="95%" src="https://streak-stats.demolab.com?user=GURUPRASAD178&theme=tokyonight&hide_border=true" alt="Contribution streak">
 
----
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=GURUPRASAD178&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph">
 
-## 🔭 What I'm Building Toward
+</div>
 
-- 🧠 **Applied AI:** Creating useful AI-powered workflows, NLP applications, and intelligent automation.
-- ⚙️ **Backend Engineering:** Designing maintainable APIs, secure application architectures, and efficient database interactions.
-- 🌐 **Full-Stack Development:** Building complete applications with responsive interfaces and reliable backends.
-- ☁️ **Cloud & IoT:** Exploring cloud-connected systems, telemetry pipelines, and data-driven monitoring.
-- 🛡️ **Secure Software:** Learning more about application security, networking, and secure system design.
+> Stats and language cards are provided by third-party services and may occasionally be unavailable or differ from GitHub's own totals.
 
 ---
 
-## 🏆 Beyond the Code
+## 🐍 Contribution Animation
 
-I enjoy hackathons, collaborative problem-solving, and projects that connect software engineering with real-world needs.
+Once you add the workflow in `.github/workflows/snake.yml` from the included setup bundle, this animated contribution graphic can appear here:
 
-My experience includes:
-- IISF Hackathon Finals 2024
-- TechForSociety Finals 2025
-- Software development internship experience with Java, Spring Boot, MySQL, and web technologies
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GURUPRASAD178/GURUPRASAD178/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GURUPRASAD178/GURUPRASAD178/output/github-contribution-grid-snake.svg">
+    <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/GURUPRASAD178/GURUPRASAD178/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
 
-I believe the best way to grow as an engineer is to keep building, understand the fundamentals, and learn from feedback.
+---
+
+## 🔭 Current Direction
+
+- 🧠 Build useful AI-powered workflows and NLP applications.
+- ⚙️ Strengthen backend architecture, API design and database skills.
+- ☁️ Explore cloud-connected systems, IoT telemetry and deployment automation.
+- 🛡️ Deepen knowledge of networking, application security and system design.
 
 ---
 
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/guruprasad-h-d-3770b518b">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:gurudilp456@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/GURUPRASAD178">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <a href="https://www.linkedin.com/in/guruprasad-h-d-3770b518b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:gurudilp456@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/GURUPRASAD178"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
-<p align="center">
-  <i>"Stay curious. Build boldly. Engineer for impact."</i>
-</p>
-
-<p align="center">
-  <sub>Thanks for visiting. If something here interests you, explore a repository, share feedback, or let's build something meaningful together.</sub>
-</p>
+<div align="center">
+  <sub>Thanks for stopping by ✨ If a project interests you, explore it, share feedback, or let's build something meaningful.</sub>
+</div>
