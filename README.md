@@ -5,10 +5,16 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1EF735&center=true&width=435&lines=Hi+I'm+Guruprasad+H+D" alt="Typing SVG" /></a>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=octocat&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F583231%3Fu%3Da59fef2a493e2b67dd13754231daf220c82ba84d%26v%3D4&variant=living-identity&label=The%20Octocat&v=wow-living-identity-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/hero?username=octocat&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F583231%3Fu%3Da59fef2a493e2b67dd13754231daf220c82ba84d%26v%3D4&variant=living-identity&label=The%20Octocat&v=wow-living-identity-1&mode=dark" width="100%" alt="The Octocat animated Living Identity portrait and ASCII name" />
+<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1EF735&center=true&width=435&lines=Hi+I'm+Guruprasad+H+D" alt="Typing SVG" /></a> -->
+
+ <picture>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://www.gitskins.com/api/section/hero?username=GURUPRASAD178&amp;theme=aurora&amp;avatar=https%3A%2F%2Fgithub.com%2FGURUPRASAD178.png&amp;variant=living-identity&amp;label=Guruprasad%20H%20D&amp;v=wow-living-identity-1&amp;mode=light" />
+  <img
+    src="https://www.gitskins.com/api/section/hero?username=GURUPRASAD178&amp;theme=aurora&amp;avatar=https%3A%2F%2Fgithub.com%2FGURUPRASAD178.png&amp;variant=living-identity&amp;label=Guruprasad&amp;v=wow-living-identity-1&amp;mode=dark"
+    width="100%"
+    alt="Guruprasad H D — Living Identity GitHub hero" />
 </picture>
 
 <br/>
