@@ -10,9 +10,9 @@
 <picture>
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://www.gitskins.com/api/section/hero?username=GURUPRASAD178&amp;theme=aurora&amp;avatar=https%3A%2F%2Fgithub.com%2FGURUPRASAD178.png&amp;variant=living-identity&amp;label=Guruprasad&amp;v=wow-living-identity-1&amp;mode=light" />
+    srcset="https://www.gitskins.com/api/section/hero?username=GURUPRASAD178&amp;theme=aurora&amp;avatar=https%3A%2F%2Fraw.githubusercontent.com%2FGURUPRASAD178%2FGURUPRASAD178%2Fmain%2Fassets%2Fphoto.jpg&amp;variant=living-identity&amp;label=Guruprasad&amp;v=wow-living-identity-1&amp;mode=light" />
   <img
-    src="https://www.gitskins.com/api/section/hero?username=GURUPRASAD178&amp;theme=aurora&amp;avatar=https%3A%2F%2Fgithub.com%2FGURUPRASAD178.png&amp;variant=living-identity&amp;label=Guruprasad&amp;v=wow-living-identity-1&amp;mode=dark"
+    src="https://www.gitskins.com/api/section/hero?username=GURUPRASAD178&amp;theme=aurora&amp;avatar=https%3A%2F%2Fraw.githubusercontent.com%2FGURUPRASAD178%2FGURUPRASAD178%2Fmain%2Fassets%2Fphoto.jpg&amp;variant=living-identity&amp;label=Guruprasad&amp;v=wow-living-identity-1&amp;mode=dark"
     width="100%"
     alt="Guruprasad — Living Identity GitHub hero" />
 </picture>
