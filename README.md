@@ -1,151 +1,181 @@
 <!-- ═══════════════════════════════════════════════════════════════
-     GURUPRASAD H D · GitHub Profile README
-     Save this as README.md in a repo named exactly: GURUPRASAD178
+     GURUPRASAD H D · GitHub Profile README  (v2)
+     Put this in a PUBLIC repo named exactly: GURUPRASAD178
+     Also add .github/workflows/snake.yml to activate the snake.
      ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=240&section=header&text=Guruprasad%20H%20D&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Postgraduate%20%E2%80%A2%20Backend%20%26%20Systems%20Engineering&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Guruprasad H D banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,40:1F6FEB,100:58A6FF&height=300&section=header&text=GURUPRASAD%20H%20D&fontSize=64&fontColor=ffffff&fontAlignY=40&desc=Backend%20%E2%80%A2%20Systems%20%E2%80%A2%20Problem%20Solving&descSize=20&descAlignY=62&animation=twinkling" width="100%" alt="Guruprasad H D banner"/>
 
 <a href="https://github.com/GURUPRASAD178">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Guruprasad+H+D;Computer+Science+Postgraduate+%40+UVCE;Exploring+backend+%26+systems+engineering;Python+%C2%B7+C%2B%2B+%C2%B7+Cython;Building+and+learning+in+public+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=760&height=50&lines=%24+whoami+%E2%86%92+Guruprasad+H+D;Computer+Science+Postgraduate+%40+UVCE+%F0%9F%8E%93;Exploring+backend+%26+systems+engineering+%E2%9A%99%EF%B8%8F;Python+%C2%B7+C%2B%2B+%C2%B7+Cython+%C2%B7+JavaScript;Building+and+learning+in+public+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=GURUPRASAD178&label=Profile%20Views&color=1F6FEB&style=for-the-badge" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/GURUPRASAD178?label=Followers&style=for-the-badge&logo=github&color=181717" alt="Followers"/>
-<img src="https://img.shields.io/badge/📍_Bengaluru-India-0A66C2?style=for-the-badge" alt="Location"/>
-<img src="https://img.shields.io/badge/🎓_UVCE-Bengaluru-F78166?style=for-the-badge" alt="UVCE"/>
+<img src="https://komarev.com/ghpvc/?username=GURUPRASAD178&label=PROFILE%20VIEWS&color=1F6FEB&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/GURUPRASAD178?label=FOLLOWERS&style=for-the-badge&logo=github&color=181717" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/GURUPRASAD178?label=STARS&style=for-the-badge&logo=github&color=F0B429" alt="Stars"/>
+<img src="https://img.shields.io/badge/📍_BENGALURU-INDIA-0A66C2?style=for-the-badge" alt="Location"/>
+<img src="https://img.shields.io/badge/🎓_UVCE-POSTGRAD-F78166?style=for-the-badge" alt="UVCE"/>
 
 <br/><br/>
 
-<a href="https://guruprasad-hd.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/guruprasad-h-d/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://x.com/Guruprasad21891"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-<a href="https://leetcode.com/GURUPRASAD178/"><img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-<a href="https://www.instagram.com/royal_challenger_ka13"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://guruprasad-hd.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/guruprasad-h-d/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://x.com/Guruprasad21891"><img src="https://img.shields.io/badge/X-FOLLOW-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://leetcode.com/GURUPRASAD178/"><img src="https://img.shields.io/badge/LEETCODE-PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="https://www.instagram.com/royal_challenger_ka13"><img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
 </div>
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-## 👋 &nbsp;About Me
+## 💻 &nbsp;`~/guruprasad` — terminal
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="coding" style="padding-left:20px"/>
+```console
+guruprasad@uvce:~$ cat about.txt
+Name       : Guruprasad H D
+Status     : Computer Science Postgraduate @ UVCE
+Location   : Bengaluru, Karnataka, India 🇮🇳
+Focus      : Backend development · Systems programming
+Languages  : Python · C++ · C · Cython · JavaScript · HTML · CSS
+Practice   : Data structures & algorithms on LeetCode
+Motto      : Build. Break. Learn. Repeat.
 
-```python
-class Guruprasad:
-    def __init__(self):
-        self.name      = "Guruprasad H D"
-        self.role      = "Computer Science Postgraduate"
-        self.college   = "UVCE, Bengaluru"
-        self.location  = "Bengaluru, Karnataka, India 🇮🇳"
-        self.languages = ["Python", "C++", "C", "Cython", "JavaScript"]
-        self.focus     = ["Backend Development", "Systems Programming"]
-        self.mode      = "Build. Break. Learn. Repeat."
+guruprasad@uvce:~$ git log --oneline --author="guruprasad" -3
+a1f9c3e  ship: learning in public, one commit at a time
+7be42d0  feat: explore backend & systems engineering
+c03d8aa  init: curiosity enabled 🚀
 
-    def current_goal(self):
-        return "Write thoughtful software that solves real problems 🚀"
+guruprasad@uvce:~$ ./open_to --check
+✔ Thoughtful software      ✔ New ideas
+✔ Learning opportunities   ✔ Collaboration
 ```
 
-- 🧠 Currently exploring **backend and systems engineering**
-- 🧰 Most often working with **Python, C++ and Cython**
-- 🌱 Building projects, exploring ideas, and **learning in public**
-- 🧩 Sharpening problem-solving on [LeetCode](https://leetcode.com/GURUPRASAD178/)
-- 💬 Ask me about **Python, C++, data structures, and web basics**
+<br/>
 
-<br clear="right"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
----
+## 🧠 &nbsp;What I'm Focused On
 
-## 🛠️ &nbsp;Tech Stack
+```mermaid
+mindmap
+  root((Guruprasad))
+    Backend
+      APIs & services
+      Databases
+      Python
+    Systems
+      C / C++
+      Cython
+      Performance
+    Problem Solving
+      Data structures
+      Algorithms
+      LeetCode
+    Web
+      HTML / CSS
+      JavaScript
+      Netlify deploys
+```
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+## 🛠️ &nbsp;Tech Arsenal
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css&theme=dark" alt="Languages"/>
-
-### Performance & Tooling
+<table>
+<tr>
+<td align="center" width="33%"><b>🔹 Languages</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js&theme=dark" alt="Languages"/>
+</td>
+<td align="center" width="33%"><b>🔹 Web</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,netlify&theme=dark" alt="Web"/>
+</td>
+<td align="center" width="33%"><b>🔹 Tools</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Tools"/>
+</td>
+</tr>
+</table>
 
 <img src="https://img.shields.io/badge/Cython-FFD43B?style=for-the-badge&logo=python&logoColor=black" alt="Cython"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Data_Structures-1F6FEB?style=for-the-badge" alt="DSA"/>
+<img src="https://img.shields.io/badge/Algorithms-58A6FF?style=for-the-badge" alt="Algorithms"/>
+<img src="https://img.shields.io/badge/Systems_Programming-F78166?style=for-the-badge" alt="Systems"/>
+<img src="https://img.shields.io/badge/Backend_Development-3FB950?style=for-the-badge" alt="Backend"/>
 
 </div>
 
----
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
 ## 🚀 &nbsp;Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚖️ <a href="https://github.com/GURUPRASAD178/Law_Bridge">Law_Bridge</a></h3>
-      <p>A web project built to bridge the gap between people and legal information.</p>
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-      <br/><br/>
-      <a href="https://github.com/GURUPRASAD178/Law_Bridge"><img src="https://img.shields.io/badge/View_Repository-1F6FEB?style=for-the-badge&logo=github" alt="Repo"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚆 <a href="https://github.com/GURUPRASAD178/Rail_Madad_2.0">Rail_Madad_2.0</a></h3>
-      <p>A reimagined take on the Rail Madad passenger assistance experience.</p>
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-      <br/><br/>
-      <a href="https://github.com/GURUPRASAD178/Rail_Madad_2.0"><img src="https://img.shields.io/badge/View_Repository-1F6FEB?style=for-the-badge&logo=github" alt="Repo"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌱 <a href="https://github.com/GURUPRASAD178/Tech_For_Society">Tech_For_Society</a></h3>
-      <p>Technology put to work for social good and community impact.</p>
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-      <br/><br/>
-      <a href="https://github.com/GURUPRASAD178/Tech_For_Society"><img src="https://img.shields.io/badge/View_Repository-1F6FEB?style=for-the-badge&logo=github" alt="Repo"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💡 <a href="https://github.com/GURUPRASAD178/Tip_App">Tip_App</a></h3>
-      <p>A simple, clean app to calculate tips and split bills quickly.</p>
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-      <br/><br/>
-      <a href="https://github.com/GURUPRASAD178/Tip_App"><img src="https://img.shields.io/badge/View_Repository-1F6FEB?style=for-the-badge&logo=github" alt="Repo"/></a>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <a href="https://github.com/GURUPRASAD178?tab=repositories"><img src="https://img.shields.io/badge/📂_Browse_all_24_repositories-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=1F6FEB" alt="All repos"/></a>
-</div>
-
----
-
-## 📊 &nbsp;GitHub at a Glance
-
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=GURUPRASAD178&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0D1117" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GURUPRASAD178&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117" alt="Top languages"/>
+<a href="https://github.com/GURUPRASAD178/Law_Bridge">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=GURUPRASAD178&repo=Law_Bridge&theme=tokyonight&hide_border=true&bg_color=0D1117&show_owner=true" alt="Law_Bridge"/>
+</a>
+<a href="https://github.com/GURUPRASAD178/Rail_Madad_2.0">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=GURUPRASAD178&repo=Rail_Madad_2.0&theme=tokyonight&hide_border=true&bg_color=0D1117&show_owner=true" alt="Rail_Madad_2.0"/>
+</a>
+<a href="https://github.com/GURUPRASAD178/Tech_For_Society">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=GURUPRASAD178&repo=Tech_For_Society&theme=tokyonight&hide_border=true&bg_color=0D1117&show_owner=true" alt="Tech_For_Society"/>
+</a>
+<a href="https://github.com/GURUPRASAD178/Tip_App">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=GURUPRASAD178&repo=Tip_App&theme=tokyonight&hide_border=true&bg_color=0D1117&show_owner=true" alt="Tip_App"/>
+</a>
 
-<img src="https://streak-stats.demolab.com?user=GURUPRASAD178&theme=tokyonight&hide_border=true&background=0D1117" alt="Contribution streak"/>
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GURUPRASAD178&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" alt="Activity graph" width="100%"/>
+| ⚖️ **Law_Bridge** | 🚆 **Rail_Madad_2.0** | 🌱 **Tech_For_Society** | 💡 **Tip_App** |
+|:---:|:---:|:---:|:---:|
+| Web project bridging people and legal information | A fresh take on the Rail Madad passenger-assistance idea | Technology applied to social good | Quick tip and bill calculator |
+| `HTML` `CSS` `JS` | `HTML` `CSS` `JS` | `HTML` `CSS` `JS` | `HTML` `CSS` `JS` |
+
+<a href="https://github.com/GURUPRASAD178?tab=repositories"><img src="https://img.shields.io/badge/📂_EXPLORE_ALL_24_REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=1F6FEB" alt="All repos"/></a>
 
 </div>
 
----
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+## 📊 &nbsp;GitHub Analytics
+
+<div align="center">
+
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=GURUPRASAD178&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0D1117&count_private=true&include_all_commits=true" alt="GitHub stats"/>
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GURUPRASAD178&layout=donut&hide_border=true&theme=tokyonight&bg_color=0D1117" alt="Top languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=GURUPRASAD178&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" alt="Contribution streak"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GURUPRASAD178&theme=tokyonight" alt="Profile details" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GURUPRASAD178&theme=tokyonight" alt="Repos per language" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GURUPRASAD178&theme=tokyonight" alt="Most commit language" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GURUPRASAD178&theme=tokyonight" alt="Stats" width="49%"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GURUPRASAD178&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true&custom_title=Contribution%20Graph" alt="Activity graph" width="100%"/>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
 ## 🏆 &nbsp;Trophies & Achievements
 
@@ -153,23 +183,21 @@ class Guruprasad:
 
 <img src="https://github-profile-trophy.vercel.app/?username=GURUPRASAD178&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=7" alt="Trophies"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/🦈_Pull_Shark-Earned-1F6FEB?style=for-the-badge" alt="Pull Shark"/>
-<img src="https://img.shields.io/badge/🎲_YOLO-Earned-F78166?style=for-the-badge" alt="YOLO"/>
+<img src="https://img.shields.io/badge/🦈_PULL_SHARK-EARNED-1F6FEB?style=for-the-badge" alt="Pull Shark"/>
+<img src="https://img.shields.io/badge/🎲_YOLO-EARNED-F78166?style=for-the-badge" alt="YOLO"/>
 
 </div>
 
----
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
 ## 🐍 &nbsp;Contribution Snake
 
 <div align="center">
 
-<!--
-  To activate the snake, add the workflow in the "Optional extras" section
-  of the setup notes, then it will appear here automatically.
--->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GURUPRASAD178/GURUPRASAD178/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GURUPRASAD178/GURUPRASAD178/output/github-snake.svg"/>
@@ -178,7 +206,33 @@ class Guruprasad:
 
 </div>
 
----
+<br/>
+
+<details>
+<summary><b>🎯 My 2026 goals (click to expand)</b></summary>
+<br/>
+
+- [x] Build and publish projects in public
+- [x] Earn my first GitHub achievements
+- [ ] Go deeper into backend and systems engineering
+- [ ] Keep up a steady LeetCode practice
+- [ ] Contribute to open source
+
+</details>
+
+<details>
+<summary><b>⚡ Fun facts</b></summary>
+<br/>
+
+- 🎓 Studying Computer Science at **UVCE**, one of Bengaluru's well-known engineering colleges
+- 🐍 Python is my go-to, C++ is where I go for speed
+- 🧪 I like turning small ideas into working projects
+
+</details>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
 ## 🤝 &nbsp;Let's Connect
 
@@ -193,10 +247,10 @@ Interested in thoughtful software, new ideas, and chances to learn and build.
 
 <br/><br/>
 
-> *"Talk is cheap. Show me the code."* — Linus Torvalds
+<img src="https://github-readme-quotes.vercel.app/quote?theme=tokyonight&animation=grow_out_in&type=horizontal&quoteCategory=programming" alt="Random dev quote"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=140&section=footer&text=Thanks%20for%20visiting%20%E2%9C%A8&fontSize=26&fontColor=ffffff&fontAlignY=68" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=160&section=footer&text=Thanks%20for%20visiting%20%E2%9C%A8&fontSize=28&fontColor=ffffff&fontAlignY=68&animation=fadeIn" width="100%" alt="footer"/>
 
 </div>
