@@ -1,176 +1,115 @@
 <div align="center">
 
-<!-- Animated Living Identity Banner -->
-<!---->
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · guruprasad178</sub></p>
+<h1>GURUPRASAD H D</h1>
+<h2>Backend or systems engineer</h2>
+<p>Hi there! I'm Guruprasad H D, a passionate Computer Science postgrad from @UVCE, Bengaluru (Karnataka, India).</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in Bengaluru · Building at @UVCE</sub></p>
+<p><a href="https://github.com/guruprasad178">GitHub</a> &nbsp;·&nbsp; <a href="https://guruprasad-hd.netlify.app/">Website</a> &nbsp;·&nbsp; <a href="https://x.com/Guruprasad21891">X</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/154236873?u=098c7e231e0ceb1efc192ebb5bccaef08ea076da&amp;v=4" width="180" alt="GURUPRASAD H D GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
-<br/>
+<h2>What teams can evaluate quickly</h2>
 
-<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1EF735&center=true&width=435&lines=Hi+I'm+Guruprasad+H+D" alt="Typing SVG" /></a> -->
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Backend or systems engineer · Python · C++ · Cython</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>23 repositories · 8 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>71 contributions · 27 active days</p></td>
+</tr>
+</table>
 
+<p><sub>Hi there! I'm Guruprasad H D, a passionate Computer Science postgrad from @UVCE, Bengaluru (Karnataka, India).</sub></p>
+
+<h2>Proof at a glance</h2>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>23</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>8</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>71</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>1</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
+
+<p align="center">
 <picture>
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://www.gitskins.com/api/section/hero?username=GURUPRASAD178&amp;theme=aurora&amp;avatar=https%3A%2F%2Fraw.githubusercontent.com%2FGURUPRASAD178%2FGURUPRASAD178%2Fmain%2Fassets%2Fphoto.jpg&amp;variant=living-identity&amp;label=Guruprasad&amp;v=wow-living-identity-1&amp;mode=light" />
-  <img
-    src="https://www.gitskins.com/api/section/hero?username=GURUPRASAD178&amp;theme=aurora&amp;avatar=https%3A%2F%2Fraw.githubusercontent.com%2FGURUPRASAD178%2FGURUPRASAD178%2Fmain%2Fassets%2Fphoto.jpg&amp;variant=living-identity&amp;label=Guruprasad&amp;v=wow-living-identity-1&amp;mode=dark"
-    width="100%"
-    alt="Guruprasad — Living Identity GitHub hero" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=guruprasad178&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F154236873%3Fu%3D098c7e231e0ceb1efc192ebb5bccaef08ea076da%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=guruprasad178&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F154236873%3Fu%3D098c7e231e0ceb1efc192ebb5bccaef08ea076da%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="GURUPRASAD H D GitHub proof metrics" />
 </picture>
+</p>
 
-<br/>
+<h2>Selected work</h2>
 
-<img src="https://komarev.com/ghpvc/?username=guruprasad178&label=PLAYER+VIEWS&color=00FF41&style=for-the-badge&labelColor=0D1117" alt="views"/>
-<img src="https://img.shields.io/github/followers/guruprasad178?label=ALLIES&style=for-the-badge&color=00F0FF&labelColor=0D1117&logo=github" alt="followers"/>
-<img src="https://img.shields.io/github/stars/guruprasad178?label=LOOT&style=for-the-badge&color=FF00E5&labelColor=0D1117&logo=github" alt="stars"/>
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=guruprasad178&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F154236873%3Fu%3D098c7e231e0ceb1efc192ebb5bccaef08ea076da%26v%3D4&repos=guruprasad178%2FLaw_Bridge%2Cguruprasad178%2FRail_Madad_2.0%2Cguruprasad178%2FTech_For_Society%2Cguruprasad178%2FTip_App&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=guruprasad178&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F154236873%3Fu%3D098c7e231e0ceb1efc192ebb5bccaef08ea076da%26v%3D4&repos=guruprasad178%2FLaw_Bridge%2Cguruprasad178%2FRail_Madad_2.0%2Cguruprasad178%2FTech_For_Society%2Cguruprasad178%2FTip_App&v=recruiter-projects-1&mode=dark" width="100%" alt="GURUPRASAD H D selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/GURUPRASAD178/Law_Bridge">Law_Bridge</a></h3>
+<p>A selected public project.</p>
+<p><sub>HTML · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/GURUPRASAD178/Law_Bridge">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
-</div>
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/GURUPRASAD178/Rail_Madad_2.0">Rail_Madad_2.0</a></h3><p>A selected public project.</p><p><sub>HTML · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/GURUPRASAD178/Tech_For_Society">Tech_For_Society</a></h3><p>A selected public project.</p><p><sub>HTML · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/GURUPRASAD178/Tip_App">Tip_App</a></h3><p>A selected public project.</p><p><sub>HTML · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
----
+<h2>Technical toolkit</h2>
 
-## 🐱 About Me
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=guruprasad178&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F154236873%3Fu%3D098c7e231e0ceb1efc192ebb5bccaef08ea076da%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=guruprasad178&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F154236873%3Fu%3D098c7e231e0ceb1efc192ebb5bccaef08ea076da%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="GURUPRASAD H D technology stack" />
+</picture>
+</p>
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>91% of public code</sub></td>
+<td width="20%" align="center"><strong>C++</strong><br /><sub>4% of public code</sub></td>
+<td width="20%" align="center"><strong>Cython</strong><br /><sub>3% of public code</sub></td>
+<td width="20%" align="center"><strong>C</strong><br /><sub>1% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>0% of public code</sub></td>
+</tr>
+</table>
 
-<!---->
+<h2>Consistency signal</h2>
 
-</div>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=guruprasad178&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F154236873%3Fu%3D098c7e231e0ceb1efc192ebb5bccaef08ea076da%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=guruprasad178&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F154236873%3Fu%3D098c7e231e0ceb1efc192ebb5bccaef08ea076da%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="GURUPRASAD H D contribution activity" />
+</picture>
+</p>
 
-## ⚔️ `> cat inventory.txt` — Skill Tree
+<hr />
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/guruprasad178">GitHub</a><br /><a href="https://guruprasad-hd.netlify.app/">Website</a><br /><a href="https://x.com/Guruprasad21891">X</a></td>
+</tr>
+</table>
 
-**🧠 Languages**
-
-<img src="https://skillicons.dev/icons?i=py,c,java,js,html,css,r&theme=dark" />
-
-**🌐 Frameworks & Libraries**
-
-<img src="https://skillicons.dev/icons?i=react,flask,django,nodejs,tailwind,bootstrap&theme=dark" />
-
-<em>✏️ The tools you reach for, in a sentence.</em>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-
-**🗄️ Databases & DevOps**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,linux,docker,vscode&theme=dark" />
-
-**🧩 DSA & Problem Solving**
-
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-
-</div>
-
----
-
-## 📊 `> ./stats --player=guruprasad178`
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=guruprasad178&show_icons=true&hide_border=false&bg_color=0D1117&title_color=00FF41&icon_color=00F0FF&text_color=C9D1D9&border_color=00FF41&ring_color=FF00E5&include_all_commits=true&count_private=true&custom_title=%F0%9F%8E%AE%20PLAYER%20STATS" />
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=guruprasad178&layout=compact&hide_border=false&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&border_color=00F0FF&langs_count=8&custom_title=%E2%9A%94%EF%B8%8F%20WEAPON%20MASTERY" />
-
-<img src="https://streak-stats.demolab.com?user=guruprasad178&theme=dark&background=0D1117&border=00FF41&ring=FF00E5&fire=FF00E5&currStreakNum=00FF41&sideNums=00F0FF&currStreakLabel=00F0FF&sideLabels=C9D1D9&dates=8B949E&stroke=00FF41" />
-
-</div>
-
----
-
-## 🏆 `> unlock --achievements`
-
-<div align="center">
-
-<img src="https://github-trophies.vercel.app/?username=guruprasad178&theme=matrix&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
-
-</div>
-
----
-
-## 📈 `> tail -f /var/log/commits.log`
-
-<div align="center">
-
-<!---->
-
-</div>
-
----
-
-## 🐍 `> ./snake.exe --eat=contributions`
-
-<div align="center">
-
-<!---->
-
-</div>
-
----
-
-## 🎯 `> cat current_quests.log`
-
-```diff
-+ [ACTIVE]    🚀 Building: Data Science & ML Projects
-+ [ACTIVE]    📚 Learning: AI/ML, Deep Learning, React
-+ [ACTIVE]    💻 Grinding: DSA & Competitive Programming
-! [PENDING]   📊 Goal: Publish research in Data Science
-! [PENDING]   🌐 Shipping: Full-stack data-driven web apps
-- [LOCKED]    👑 Boss Fight: Land a dream role in Data Science / AI
-```
-
-<div align="center">
-
-| 🕹️ Stat | ▰▰▰▰▰▰▰▰▱▱ | Level |
-|:--|:--|:--|
-| 🐍 Python | `████████░░` | **80%** |
-| 📊 Data Science | `███████░░░` | **70%** |
-| 🧠 AI / ML | `██████░░░░` | **60%** |
-| ⚛️ React | `██████░░░░` | **60%** |
-| 🏗️ DSA | `███████░░░` | **70%** |
-| ☕ Caffeine | `██████████` | **MAX** |
-
-</div>
-
----
-
-## 🎧 `> now_playing --mode=focus`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/♪_Lo--Fi_/_Synthwave_/_Focus_Beats-0D1117?style=for-the-badge&logo=spotify&logoColor=00FF41&labelColor=0D1117&color=00FF41" />
-
-</div>
-
----
-
-## 📡 `> ping --connect`
-
-<div align="center">
-
-<a href="https://github.com/guruprasad178"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&color=00F0FF" /></a>
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41&color=00FF41" /></a>
-<a href="https://www.linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=0A66C2" /></a>
-<a href="https://www.instagram.com/not_avi_20/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F&color=E4405F" /></a>
-
-<br/><br/>
-
-```bash
-$ echo "There is no spoon. Only data." | lolcat
-$ python3 -c "print('Hello, World! 🧠')"
-$ exit 0   # GAME OVER? Nah — INSERT COIN TO CONTINUE 🪙
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=140&section=footer&text=INSERT%20COIN%20TO%20CONTINUE&fontSize=26&fontColor=00FF41&animation=twinkling&fontAlignY=68" width="100%"/>
-
-</div>
-
-<!-- badge-auto: badge-pr-1 pr1 -->
-
-<p align="center"><sub>GURUPRASAD H D · <a href="https://www.gitskins.com/readme-generator?template=community-night-shift-zckz">Night Shift</a> template by <a href="https://www.gitskins.com/creators/Avijit010325">@Avijit010325</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center"><sub>GURUPRASAD H D · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
