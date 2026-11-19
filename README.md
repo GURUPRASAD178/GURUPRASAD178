@@ -69,9 +69,12 @@ mindmap
       APIs & services
       Databases
       Python
+          AI
+          ML
+          Data Science
     Systems
       C / C++
-      Cython
+      Java
       Performance
     Problem Solving
       Data structures
