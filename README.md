@@ -9,7 +9,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=260&section=header&text=Guruprasad%20H%20D&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Backend%20%7C%20Systems%20%7C%20Problem%20Solving&descSize=20&descColor=ffffff&descAlignY=58&animation=fadeIn" width="100%" alt="Guruprasad H D banner"/>
 
 <a href="https://github.com/GURUPRASAD178">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=760&height=50&lines=%24+whoami+%E2%86%92+Guruprasad+H+D;Computer+Science+Postgraduate+%40+UVCE+%F0%9F%8E%93;Exploring+backend+%26+systems+engineering+%E2%9A%99%EF%B8%8F;Python+%C2%B7+C%2B%2B+%C2%B7+Cython+%C2%B7+JavaScript;Building+and+learning+in+public+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=760&height=50&lines=%24+whoami+%E2%86%92+Guruprasad+H+D;Computer+Science+Postgraduate+%40+UVCE+%F0%9F%8E%93;Exploring+backend+%26+systems+engineering+%E2%9A%99%EF%B8%8F;Python+%C2%B7+C%2B%2B+%C2%B7+Java+%C2%B7+JavaScript;Building+and+learning+in+public+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -42,7 +42,7 @@ Name       : Guruprasad H D
 Status     : Computer Science Postgraduate @ UVCE
 Location   : Bengaluru, Karnataka, India 🇮🇳
 Focus      : Backend development · Systems programming
-Languages  : Python · C++ · C · Cython · JavaScript · HTML · CSS
+Languages  : Python · C++ · C · Java · JavaScript · HTML · CSS
 Practice   : Data structures & algorithms on LeetCode
 Motto      : Build. Break. Learn. Repeat.
 
