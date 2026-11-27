@@ -110,7 +110,7 @@ mindmap
 </tr>
 </table>
 
-<img src="https://img.shields.io/badge/Cython-FFD43B?style=for-the-badge&logo=python&logoColor=black" alt="Cython"/>
+<img src="https://img.shields.io/badge/Cython-FFD43B?style=for-the-badge&logo=python&logoColor=black" alt="Python"/>
 <img src="https://img.shields.io/badge/Data_Structures-1F6FEB?style=for-the-badge" alt="DSA"/>
 <img src="https://img.shields.io/badge/Algorithms-58A6FF?style=for-the-badge" alt="Algorithms"/>
 <img src="https://img.shields.io/badge/Systems_Programming-F78166?style=for-the-badge" alt="Systems"/>
